@@ -31,7 +31,7 @@ const Application = () => (
 
 <br/>
 
-## Documentation
+## Documentation changes
 
 - [Document Site](https://react.geist-ui.dev)
 - [中文文档](https://react.geist-ui.dev/zh-cn)
